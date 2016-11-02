@@ -7,14 +7,14 @@
    ------------------------------------------------------------------------- */
 
 body {
-	background-color: #FFFBF5;
+	background-color: #FDF6F1;
 	background-image: url("../img/background.png");
 	background-size: 640px 400px;
 	background-repeat: repeat;
 }
 
 .container {
-	background: #FFFBF5;
+	background: #FDF6F1;
 };
 
 body {}
@@ -37,12 +37,12 @@ a:active {
 }
 
 ::-moz-selection {
-	color: #FFFBF5;
+	color: #FDF6F1;
     background: #B676B2;
 }
 
 ::selection {
-	color: #FFFBF5;
+	color: #FDF6F1;
     background: #B676B2;
 }
 
